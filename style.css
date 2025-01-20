@@ -45,15 +45,16 @@ body {
   padding-top: 100%;
 }
 .qr {
-  width: 6rem;
+  width: 6.75rem;
 }
 p {
   color: var(--grey);
   font-size: 0.75rem;
   text-align: center;
 }
-strong {
+h1 {
   color: var(--black);
   font-size: 0.875rem;
   font-weight: 700;
+  text-align: center;
 }
