@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" style="max-width: 100%;height: auto;" width="1023" height="1023" viewBox="0 0 1023 1023">
-<rect width="1023" height="1023" fill="#ffffff" x="0" y="0" />
-<g fill="#000000">
+<rect width="1023" height="1023" fill="transparent" x="0" y="0" />
+<g fill="#fff">
 <g transform="translate(310,62) scale(5.3216666666667)"><rect width="6" height="6"/></g>
 <g transform="translate(372,62) scale(5.3216666666667)"><rect width="6" height="6"/></g>
 <g transform="translate(434,62) scale(5.3216666666667)"><rect width="6" height="6"/></g>
@@ -347,10 +347,10 @@
 <g transform="translate(806,930) scale(5.3216666666667)"><rect width="6" height="6"/></g>
 <g transform="translate(837,930) scale(5.3216666666667)"><rect width="6" height="6"/></g>
 <g transform="translate(868,930) scale(5.3216666666667)"><rect width="6" height="6"/></g>
-</g><g><g transform="translate(62,62)"  fill="#000000"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
-<g transform="translate(744,62)"  fill="#000000"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
-<g transform="translate(62,744)"  fill="#000000"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
-<g transform="translate(124,124)"  fill="#000000"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g>
-<g transform="translate(806,124)"  fill="#000000"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g>
-<g transform="translate(124,806)"  fill="#000000"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g></g>
+</g><g><g transform="translate(62,62)"  fill="#fff"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
+<g transform="translate(744,62)"  fill="#fff"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
+<g transform="translate(62,744)"  fill="#fff"><g transform="scale(15.5)"><path d="M0,0v14h14V0H0z M12,12H2V2h10V12z"/></g></g>
+<g transform="translate(124,124)"  fill="#fff"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g>
+<g transform="translate(806,124)"  fill="#fff"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g>
+<g transform="translate(124,806)"  fill="#fff"><g transform="scale(15.5)"><rect width="6" height="6"/></g></g></g>
 </svg>
